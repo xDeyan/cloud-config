@@ -1,5 +1,1 @@
-spring:
-    config:
-        activate:
-            on-profile: dev
 my-name: Deyan
